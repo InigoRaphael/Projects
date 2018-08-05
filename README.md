@@ -1,4 +1,5 @@
 # Projects
-Web Development Projects
+Java Development Project
 
-Hey viewer! I will upload different web-based projects I made during class hours.
+Vehicle Repairshop using SQLYog and Java Netbeans to create an interactive way 
+in accordance for Web Development Projects.
